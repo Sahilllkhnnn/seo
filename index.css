@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-ivory text-ink font-sans antialiased;
+}
+
+::selection {
+  background: rgba(200, 169, 106, 0.35);
+}
+
+.glass-panel {
+  @apply bg-white/40 backdrop-blur-xl border border-white/40 shadow-luxe;
+}
+
+.gold-outline {
+  box-shadow: inset 0 0 0 1px rgba(200, 169, 106, 0.4);
+}
+
+.text-balance {
+  text-wrap: balance;
+}

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "elan-silk-sari",
+    "name": "Élané Silk Sari",
+    "category": "Sarees",
+    "description": "A whisper-light silk sari with hand-finished zari edging and a sculpted fall.",
+    "fabric": "Mulberry silk with zari weave",
+    "price": 18999,
+    "colors": ["Ivory", "Gold"],
+    "sizes": ["Free"],
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.9,
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": "noor-lehenga",
+    "name": "Noor Lehenga Set",
+    "category": "Lehengas",
+    "description": "A couture lehenga with architectural pleats and hand-embroidered motifs.",
+    "fabric": "Organza, silk lining",
+    "price": 27999,
+    "colors": ["Beige", "Gold"],
+    "sizes": ["XS", "S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1450297350677-623de575f31c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.8,
+    "isFeatured": true
+  },
+  {
+    "id": "aria-co-ord",
+    "name": "Aria Co-Ord Set",
+    "category": "Sets",
+    "description": "Minimal co-ord in satin crepe with pearl buttons and a fluid drape.",
+    "fabric": "Satin crepe",
+    "price": 12999,
+    "colors": ["Black", "Ivory"],
+    "sizes": ["XS", "S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "sera-anarkali",
+    "name": "Sera Anarkali",
+    "category": "Anarkalis",
+    "description": "A flowing anarkali with a modern empire waist and tonal embroidery.",
+    "fabric": "Chanderi with silk lining",
+    "price": 15999,
+    "colors": ["Beige", "Ivory"],
+    "sizes": ["S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.6,
+    "isNew": true
+  },
+  {
+    "id": "ivory-cape",
+    "name": "Ivory Cape Gown",
+    "category": "Gowns",
+    "description": "A sculpted cape gown with a minimal silhouette and gold clasp.",
+    "fabric": "Double crepe",
+    "price": 21999,
+    "colors": ["Ivory", "Gold"],
+    "sizes": ["S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1450297350677-623de575f31c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.9,
+    "isFeatured": true
+  },
+  {
+    "id": "zarah-kurta",
+    "name": "Zarah Kurta Dress",
+    "category": "Kurtas",
+    "description": "Relaxed kurta dress with luxe pintucks and a soft sheen.",
+    "fabric": "Bemberg chiffon",
+    "price": 8999,
+    "colors": ["Beige", "Black"],
+    "sizes": ["XS", "S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "lumi-dupatta",
+    "name": "Lumi Embroidered Dupatta",
+    "category": "Dupattas",
+    "description": "Hand-beaded dupatta with a luminous finish for evening styling.",
+    "fabric": "Net with beadwork",
+    "price": 6999,
+    "colors": ["Gold", "Ivory"],
+    "sizes": ["Free"],
+    "images": [
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "tara-cocktail",
+    "name": "Tara Cocktail Dress",
+    "category": "Dresses",
+    "description": "An evening dress with a fluid cut and delicate metallic trim.",
+    "fabric": "Silk satin",
+    "price": 14999,
+    "colors": ["Black", "Gold"],
+    "sizes": ["XS", "S", "M", "L"],
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1450297350677-623de575f31c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.8,
+    "isNew": true
+  }
+]
